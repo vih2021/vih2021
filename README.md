@@ -6,7 +6,8 @@
 ---
 <br>
 
-![vih2021 GitHub stats](https://github-readme-stats.vercel.app/api?username=vih2021&show_icons=true&theme=radical)
+![vih2021 GitHub stats](https://github-readme-stats.vercel.app/api?username=vih2021&show_icons=true&theme=white)
+[![vih2021](https://github-readme-stats.vercel.app/api/top-langs/?username=vih2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -53,13 +54,6 @@ Aqui estão meus contatos :
 
 ---
 
-<br/>
-
-[![vih2021](https://github-readme-stats.vercel.app/api/top-langs/?username=vih2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-<br/>
 
 
 
